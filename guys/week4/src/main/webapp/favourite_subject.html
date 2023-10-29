@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Your Favourite Subject</title>
+</head>
+<body>
+<h1>Your Favourite Subject</h1>
+<hr/>
+<form action="favourite-subject" method="post">
+    <table>
+        <tbody>
+        <tr>
+            <td><label for="id">Your Student Id:</label></td>
+            <td><input type="text" id="id" name="id"/></td>
+        </tr>
+        <tr>
+            <td><label for="name">Your Student Name:</label></td>
+            <td><input type="text" id="name" name="name"/></td>
+        </tr>
+        <tr>
+            <td>Your Favourite Subjects:</td>
+            <td style="display: flex; flex-direction: column">
+                <div>
+                    <input type="checkbox" name="subjects" id="subjects-java-programming"
+                           value="Java Programming"/>
+                    <label for="subjects-java-programming">Java Programming</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="subjects" id="subjects-computer-network"
+                           value="Computer Network"/>
+                    <label for="subjects-computer-network">Computer Network</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="subjects" id="subjects-database"
+                           value="Database"/>
+                    <label for="subjects-database">Database</label>
+                </div>
+                <div>
+                    <input type="checkbox" name="subjects" id="subjects-backend-dev"
+                           value="Backend Development"/>
+                    <label for="subjects-backend-dev">Backend Development</label>
+                </div>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+    <input type="submit" value="Submit">
+</form>
+</body>
+</html>

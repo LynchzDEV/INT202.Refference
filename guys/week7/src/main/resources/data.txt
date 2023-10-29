@@ -1,0 +1,67 @@
+1,INT100,Information Technology Fundamentals,3
+1,INT101,Programming Fundamentals,3
+1,INT102,Web Technology,1
+1,INT114,Discrete Mathematics for Information Technology,3
+1,GEN101,Physical Education,1
+1,GEN111,Man and Ethics of Living,3
+1,LNG120,General English,3
+1,LNG220,Academic English,3
+2,INT103,Advanced Programming,3
+2,INT104,User Experience Design,3
+2,INT105,Basic SQL,1
+2,INT107,Computing Platforms Technology,3
+2,INT200,Data Structures and Algorithms,1
+2,GEN121,Learning and Problem Solving Skills,3
+2,LNG220,Academic English for Science and Technology,3
+3,INT201,Client-Side Web Programming I,2
+3,INT202,Server-Side Web Programming I,2
+3,INT205,Database Management System,3
+3,INT207,Network I,3
+3,INT214,Statistics for Information Technology,3
+3,GEN231,Miracle of Thinking,3
+3,LNG202,Basic Reading for Science and Technology,1
+4,INT203,Client-side Web Programming II,2
+4,INT204,Server-side Web Programming II,2
+4,INT206,Advanced Database,2
+4,INT208,Network II,2
+4,INT209,Development and Operations (DevOps),1
+4,INT210,Architecture Integration and Deployment,2
+4,INT221,Integrated Information Technology Project I,1
+4,LNG308,Technical Report Writing,1
+5,INT222,Integrated Information Technology Project II,2
+5,INT305,Semi-structured and Unstructured Data Management,2
+5,INT307,Security I,2
+5,INT314,Applied Mathematics for Data Science,3
+5,GEN241,Beauty of Life,3
+5,LNG320,Content-based Language Learning,3
+6,INT308,Security II,2
+6,INT319,Information Technology Professional Practice,4
+6,INT321,Information Technology Seminar I,1
+6,INT339,Preparation for Career Training,1
+6,INT340,Career Training,2
+6,INT365,Capstone Information Technology Project I,3
+6,GEN351,Modern Management and Leadership,3
+6,GENxxx,GEN Elective I,3
+7,INT366,Capstone Information Technology Project II,3
+7,INTxxx,INT Elective I,3
+7,LNG224,Oral Communication,3
+7,GENxxx,GEN Elective II,3
+7,XXXxxx,Free Elective I,3
+8,INT322,Information Technology Seminar II,1
+8,INTxxx,INT Elective II,3
+8,INTxxx,INT Elective III,3
+8,LNG304,Meetings and Discussions,1
+8,XXXxxx,Free Elective II,3
+9,INT372,Experiential Learning Project II,3
+9,INTxxx,INT Elective I,3
+9,LNG224,Oral Communication I,3
+9,GENxxx,GEN Elective I,3
+9,GENxxx,GEN Elective II,3
+9,XXXxxx,Free Elective I,3
+9,INT308,Security II,2
+9,INT319,Information Technology Professional Practice,4
+9,INT322,Information Technology Seminar II,1
+9,LNG304,Meetings and Discussions,1
+9,GEN351,Modern Management and Leadership,3
+9,GENxxx,GEN Elective II,3
+9,XXXxxx,Free Elective II,3
